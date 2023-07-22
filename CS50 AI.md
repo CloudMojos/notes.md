@@ -1,8 +1,8 @@
 # CS50 AI 
 > Notes per week by Joshuel Simbulan (https://github.com/CloudMojos)
 ## Week 0
-### Project 0
-### Lecture 0: Search 
+## Project 0
+## Lecture 0: Search 
 (Start - 07/18/23) 
 (End - 07/19/23) 
 (Actual Start - 07/18/23)
@@ -88,17 +88,31 @@
 - it is what the title says, depth limited siya para.
 - evaluation function is used. kasi di ba sa minimax need nung terminal state para sa utility. pano kung malayo pa sa terminal state, need pa rin ng utility nung current state.
 
-### Week 1
-### Project 1
-### Lecture 1: Knowledge
+## Week 1
+## Project 1
+## Lecture 1: Knowledge
 (Start - 07/22/23) 
 (End - 07/22/23) 
 (Actual Start - 07/22/23)
 (Actual End - )
-
-### Week 2
-### Project 2
-### Lecture 2: Uncertainty
+### Knowledge
+- stored information
+### knowledge-based agents
+- agents that reason by operating on internal representations of knowledge
+- parang dun sa propositional logic
+### sentence
+- iba ang kahulugan sa ai sa natural language
+- an assertion about the world in a knowledge representation language
+### propositional logic
+- logic of proposition
+- proposition symbols
+ - P
+ - Q
+ - R
+ 
+## Week 2
+## Project 2
+## Lecture 2: Uncertainty
 (Start - 07/23/23) 
 (End - 07/23/23) 
 (Actual Start - )
