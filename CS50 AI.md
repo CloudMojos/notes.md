@@ -109,6 +109,12 @@
  - P
  - Q
  - R
+- logic connectives
+ - not
+ - and
+ - or
+ - implication
+ - biconditional
  
 ## Week 2
 ## Project 2
