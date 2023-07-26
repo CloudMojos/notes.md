@@ -94,7 +94,7 @@
 (Start - 07/22/23) 
 (End - 07/22/23) 
 (Actual Start - 07/22/23)
-(Actual End - )
+(Actual End - 07/26/23)
 ### Knowledge
 - stored information
 ### knowledge-based agents
@@ -121,22 +121,36 @@
  - alpha entails beta (may symbol dapat yan pero yan yung english)
 - inference
  - deriving new sentence from existing sentences
+- clause 
+  - a disjunction of literals
+- conjunction is and, disjunction is or
 ### knowledge engineering
 - take a problem and how to distill it down to a knowledge understandable by the computer
 - examples of knowledge engineering problem:
   - [clue](https://en.wikipedia.org/wiki/Cluedo) 
- 
+### First-Order Logic
+- mas compressed sa propositional logic
+- pwede magamit for universal and existential quantifier
+
 ## Week 2
 ## Project 2
 ## Lecture 2: Uncertainty
 (Start - 07/23/23) 
 (End - 07/23/23) 
-(Actual Start - )
-(Actual End - )
+(Actual Start - 07/26/23)
+(Actual End - 07/26/23)
 
-### Week 3
-### Project 3
-### Lecture 3: Optimization
+Optimization
+- choosing the best option from a set of options
+Local Search
+- search to just neighboring
+- different from dfs and bfs as it looks at different states
+
+
+
+## Week 3
+## Project 3
+## Lecture 3: Optimization
 (Start - ) 
 (End - ) 
 (Actual Start - )
