@@ -115,6 +115,16 @@
  - or
  - implication
  - biconditional
+### knowledge base
+- a set of sentences known by a knowledge-based agent
+- entailment
+ - alpha entails beta (may symbol dapat yan pero yan yung english)
+- inference
+ - deriving new sentence from existing sentences
+### knowledge engineering
+- take a problem and how to distill it down to a knowledge understandable by the computer
+- examples of knowledge engineering problem:
+  - [clue](https://en.wikipedia.org/wiki/Cluedo) 
  
 ## Week 2
 ## Project 2
